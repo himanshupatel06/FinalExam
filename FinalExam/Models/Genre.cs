@@ -1,3 +1,8 @@
+/*
+File name : Genre.cs
+Author: Himanshu Patel
+File description : Genre Model
+*/
 namespace FinalExam.Models
 {
     using System;

@@ -1,3 +1,9 @@
+/*
+File name : Atrist.cs
+Author: Himanshu Patel
+File description : Artist Model
+*/
+
 namespace FinalExam.Models
 {
     using System;

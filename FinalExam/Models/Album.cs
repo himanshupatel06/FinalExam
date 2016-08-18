@@ -1,3 +1,8 @@
+/*
+File name : Album.cs
+Author: Himanshu Patel
+File description : Album Model
+*/
 namespace FinalExam.Models
 {
     using System;
